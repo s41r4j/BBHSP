@@ -61,12 +61,20 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 <br><hr><br>
 
 ### Level 0 → Level 1
-Instructions for Level 0 → Level 1...
+```
+ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+```
+<img width="676" alt="image" src="https://github.com/user-attachments/assets/88de1f30-0c22-4c77-bee0-2a940845c6f0" />
+
 
 <br><hr><br>
 
 ### Level 1 → Level 2
-Instructions for Level 1 → Level 2...
+```
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+```
+<img width="267" alt="image" src="https://github.com/user-attachments/assets/5a4a7631-a5d7-4239-96c0-19045f16367a" />
+
 
 <br><hr><br>
 
