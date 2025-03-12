@@ -51,7 +51,12 @@
 <br><br>
 
 ### Level 0
-Instructions for Level 0...
+```
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+```
+> bandit0
+<img width="593" alt="Screenshot 2025-03-12 at 10 29 44 PM" src="https://github.com/user-attachments/assets/cbad4093-d464-412d-9ba4-058834fbf678" />
+
 
 <br><hr><br>
 
