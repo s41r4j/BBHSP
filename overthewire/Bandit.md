@@ -1,4 +1,4 @@
-# Bandit
+# [Bandit](https://overthewire.org/wargames/bandit)
 > **Bandit Wargame** is an entry-level wargame from OverTheWire designed to teach the basics of Linux command-line navigation, file manipulation, and security concepts. It consists of a series of levels, each requiring players to find a hidden password using terminal commands and logic. Bandit is perfect for beginners looking to improve their cybersecurity and ethical hacking skills.
 
 
