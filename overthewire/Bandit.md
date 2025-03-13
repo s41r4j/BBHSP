@@ -170,7 +170,10 @@ dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 <br><hr><br>
 
 ### Level 12 → Level 13
-Instructions for Level 12 → Level 13...
+```
+
+```
+<img width="1234" alt="image" src="https://github.com/user-attachments/assets/b0b159ac-1c21-4d1a-a7f6-0b9b33d904a6" />
 
 <br><hr><br>
 
