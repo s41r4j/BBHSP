@@ -171,9 +171,72 @@ dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 
 ### Level 12 → Level 13
 ```
-
+FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 ```
 <img width="1234" alt="image" src="https://github.com/user-attachments/assets/b0b159ac-1c21-4d1a-a7f6-0b9b33d904a6" />
+
+```sh
+$ cp data.txt /tmp/hexdump_data && cd /tmp
+
+$ xxd -r hexdump_data compressed_data
+
+$ ls
+compressed_data	hexdump_data
+
+$ file compressed_data
+compressed_data: gzip compressed data, was "data2.bin", last modified: Thu Sep 19 07:08:15 2024, max compression, from Unix, original size modulo 2^32 574
+
+$ mv compressed_data compressed_data.gz
+
+$ gunzip compressed_data.gz
+
+$ file compressed_data
+compressed_data: bzip2 compressed data, block size = 900k
+
+$ bunzip2 compressed_data 
+bunzip2: Can't guess original name for compressed_data -- using compressed_data.out
+
+$ file compressed_data.out 
+compressed_data.out: gzip compressed data, was "data4.bin", last modified: Thu Sep 19 07:08:15 2024, max compression, from Unix, original size modulo 2^32 20480
+
+$ mv compressed_data.out compressed_data.gz
+
+$ gunzip compressed_data.gz
+
+$ file compressed_data 
+compressed_data: POSIX tar archive (GNU)
+
+$ tar -xf compressed_data
+
+$ file data5.bin 
+data5.bin: POSIX tar archive (GNU)
+
+$ tar -xf data5.bin
+
+$ file data6.bin 
+data6.bin: bzip2 compressed data, block size = 900k
+
+$ bzip2 -d data6.bin
+bzip2: Can't guess original name for data6.bin -- using data6.bin.out
+
+$ file data6.bin.out 
+data6.bin.out: POSIX tar archive (GNU)
+
+$ tar -xf data6.bin.out
+
+$ file data8.bin 
+data8.bin: gzip compressed data, was "data9.bin", last modified: Thu Sep 19 07:08:15 2024, max compression, from Unix, original size modulo 2^32 49
+
+$ mv data8.bin data8.gz
+
+$ gzip -d data8.gz
+
+$ file data8 
+data8: ASCII text
+
+$ cat data8
+The password is FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+```
 
 <br><hr><br>
 
