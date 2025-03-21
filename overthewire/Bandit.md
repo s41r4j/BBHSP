@@ -241,22 +241,51 @@ The password is FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 <br><hr><br>
 
 ### Level 13 → Level 14
-Instructions for Level 13 → Level 14...
+```
+MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
+```
+<img width="1260" alt="image" src="https://github.com/user-attachments/assets/8dd7d700-20d9-4a2e-b705-f548d25ceb55" />
+
+> save the private key `id_rsa` locally
+```
+$ chmod 600 id_rsa
+$ ssh -i ./id_rsa bandit14@bandit.labs.overthewire.org -p 2220
+```
 
 <br><hr><br>
 
 ### Level 14 → Level 15
-Instructions for Level 14 → Level 15...
+```
+8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+```
+<img width="840" alt="image" src="https://github.com/user-attachments/assets/2d6673ef-7965-4c91-9d1e-e4599ed1517b" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/7a01dddf-808e-488e-a677-c171e67e1e88" />
 
 <br><hr><br>
 
 ### Level 15 → Level 16
-Instructions for Level 15 → Level 16...
+```
+kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
+```
+<img width="1014" alt="image" src="https://github.com/user-attachments/assets/76c4dff1-c5b8-4d6c-9c2a-f7b981ae2392" />
+
+```
+$ openssl s_client -connect localhost:30001
+...
+8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+Correct!
+kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
+```
 
 <br><hr><br>
 
 ### Level 16 → Level 17
-Instructions for Level 16 → Level 17...
+```
+
+```
+<img width="1247" alt="image" src="https://github.com/user-attachments/assets/b3f0504a-b46d-4321-a767-8bea46facee9" />
+
+
 
 <br><hr><br>
 
