@@ -281,31 +281,60 @@ kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
 
 ### Level 16 → Level 17
 ```
+EReVavePLFHtFlFsjn3hyzMlvSuSAcRD
+```
+<img width="1254" alt="image" src="https://github.com/user-attachments/assets/ec775769-8bac-41b6-9ea1-c56f2c34b731" />
+<img width="797" alt="image" src="https://github.com/user-attachments/assets/c2f88877-e85a-4185-9476-0c9381cae739" />
+<img width="576" alt="image" src="https://github.com/user-attachments/assets/3ba6628b-a8bb-46c9-b80f-0a80fe0c6adf" />
 
 ```
-<img width="1247" alt="image" src="https://github.com/user-attachments/assets/b3f0504a-b46d-4321-a767-8bea46facee9" />
-
-
+$ nano private.key
+$ chmod 600 private.key 
+$ ssh -i private.key bandit17@bandit.labs.overthewire.org -p 2220
+$ cat /etc/bandit_pass/bandit17
+EReVavePLFHtFlFsjn3hyzMlvSuSAcRD
+```
 
 <br><hr><br>
 
 ### Level 17 → Level 18
-Instructions for Level 17 → Level 18...
+```
+x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO
+```
+<img width="1207" alt="image" src="https://github.com/user-attachments/assets/bb8da3da-7fd1-49cb-88e6-b75ccccb73d1" />
+<img width="426" alt="image" src="https://github.com/user-attachments/assets/137d7f3f-9034-42db-b3ec-5df4e7366778" />
+
 
 <br><hr><br>
 
 ### Level 18 → Level 19
-Instructions for Level 18 → Level 19...
+```
+cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
+```
+<img width="1130" alt="image" src="https://github.com/user-attachments/assets/9d57376a-fc84-4cee-bc4c-e33be07a1d3a" />
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/d571f94e-0f05-4d24-978b-9e179f31246b" />
+<img width="558" alt="image" src="https://github.com/user-attachments/assets/b6210b12-e124-4216-9f64-bf13cea0a56a" />
+
 
 <br><hr><br>
 
 ### Level 19 → Level 20
-Instructions for Level 19 → Level 20...
+```
+0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
+```
+<img width="1249" alt="image" src="https://github.com/user-attachments/assets/abe4cf9d-c9c4-4f4e-ab32-6e71d407255a" />
+<img width="528" alt="image" src="https://github.com/user-attachments/assets/0f945999-6e34-496b-bc00-46e7837db201" />
+
 
 <br><hr><br>
 
 ### Level 20 → Level 21
-Instructions for Level 20 → Level 21...
+```
+
+```
+<img width="1238" alt="image" src="https://github.com/user-attachments/assets/a7d25246-663c-4122-8903-4ae340cefdb9" />
+<img width="775" alt="image" src="https://github.com/user-attachments/assets/94be2373-5414-4930-9425-cee8e795d65c" />
+
 
 <br><hr><br>
 
