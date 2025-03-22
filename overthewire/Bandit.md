@@ -436,34 +436,46 @@ td=$(mktemp -d) && cd "$td" && GIT_SSH_COMMAND='ssh -p 2220' git clone ssh://ban
 <img width="787" alt="image" src="https://github.com/user-attachments/assets/01ce6567-2053-4084-9f3f-c1c00939ee48" />
 <img width="764" alt="image" src="https://github.com/user-attachments/assets/70127824-1b25-462c-ab1e-3cd8b0672253" />
 
-```
-td=$(mktemp -d) && cd "$td" && GIT_SSH_COMMAND='ssh -p 2220' git clone ssh://bandit28-git@localhost/home/bandit28-git/repo
-```
 
 <br><hr><br>
 
 ### Level 29 → Level 30
-Instructions for Level 29 → Level 30...
+```
+qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL
+```
+<img width="785" alt="image" src="https://github.com/user-attachments/assets/1a4504a2-e213-4829-b945-e04327a16d87" />
 
 <br><hr><br>
 
 ### Level 30 → Level 31
-Instructions for Level 30 → Level 31...
+```
+fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy
+```
+<img width="787" alt="image" src="https://github.com/user-attachments/assets/c0e70f7e-fceb-4749-9cec-54c8663df4af" />
+
 
 <br><hr><br>
 
 ### Level 31 → Level 32
-Instructions for Level 31 → Level 32...
+```
+3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K
+```
+<img width="786" alt="image" src="https://github.com/user-attachments/assets/0f76e04c-86e4-4163-adba-801d3b289d11" />
+<img width="799" alt="image" src="https://github.com/user-attachments/assets/345fdd82-64e7-4335-ae9c-1a9bc16cfdd1" />
+
 
 <br><hr><br>
 
 ### Level 32 → Level 33
-Instructions for Level 32 → Level 33...
+```
+tQdtbs5D5i2vJwkO8mEyYEyTL8izoeJ0
+```
+<img width="538" alt="image" src="https://github.com/user-attachments/assets/171c0ff3-3d8f-49fb-82d0-b78c01e294fc" />
 
 <br><hr><br>
 
 ### Level 33 → Level 34
-Instructions for Level 33 → Level 34...
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/61095d09-d9ba-487b-a3f2-001fe18fe206" />
 
 <br><hr><br>
 
