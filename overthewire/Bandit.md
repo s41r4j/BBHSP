@@ -392,7 +392,7 @@ cat possible_pins.txt | nc localhost 30002 > working_port.txt
 ```
 <img width="1254" alt="image" src="https://github.com/user-attachments/assets/bfd91669-58c4-4fce-a60e-dcbf367c6f89" />
 <img width="599" alt="image" src="https://github.com/user-attachments/assets/c890561a-c23b-4b39-b626-844c19e7f4d2" />
-![Uploading image.png…]()
+<img width="560" alt="image" src="https://github.com/user-attachments/assets/65e424d9-941b-4c5d-ae5a-347e8d3373b4" />
 
 
 ```
