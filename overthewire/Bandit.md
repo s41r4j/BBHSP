@@ -388,57 +388,57 @@ cat possible_pins.txt | nc localhost 30002 > working_port.txt
 
 ### Level 25 → Level 26
 ```
-
+s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ
 ```
 <img width="1254" alt="image" src="https://github.com/user-attachments/assets/bfd91669-58c4-4fce-a60e-dcbf367c6f89" />
-<img width="599" alt="image" src="https://github.com/user-attachments/assets/c890561a-c23b-4b39-b626-844c19e7f4d2" />
+
+> for in-depth explain check this [article](https://david-varghese.medium.com/overthewire-bandit-level-25-level-26-35d375ef61e)
 <img width="560" alt="image" src="https://github.com/user-attachments/assets/65e424d9-941b-4c5d-ae5a-347e8d3373b4" />
+<img width="794" alt="image" src="https://github.com/user-attachments/assets/3e1f280f-a5c4-4302-92c8-b7bd708783a7" />
+<img width="801" alt="image" src="https://github.com/user-attachments/assets/617c51ca-23e2-45d7-9fe2-1b6e1c010a32" />
+<img width="790" alt="image" src="https://github.com/user-attachments/assets/3e3e85b6-4b42-41de-92da-1f8b81151334" />
+<img width="788" alt="image" src="https://github.com/user-attachments/assets/a5ff6e00-7330-4d22-b9c6-398025c713f5" />
+<img width="794" alt="image" src="https://github.com/user-attachments/assets/abcd9073-ba67-48c2-8d63-efec8feb9d4b" />
 
-
-```
------BEGIN RSA PRIVATE KEY-----
-MIIEpQIBAAKCAQEApis2AuoooEqeYWamtwX2k5z9uU1Afl2F8VyXQqbv/LTrIwdW
-pTfaeRHXzr0Y0a5Oe3GB/+W2+PReif+bPZlzTY1XFwpk+DiHk1kmL0moEW8HJuT9
-/5XbnpjSzn0eEAfFax2OcopjrzVqdBJQerkj0puv3UXY07AskgkyD5XepwGAlJOG
-xZsMq1oZqQ0W29aBtfykuGie2bxroRjuAPrYM4o3MMmtlNE5fC4G9Ihq0eq73MDi
-1ze6d2jIGce873qxn308BA2qhRPJNEbnPev5gI+5tU+UxebW8KLbk0EhoXB953Ix
-3lgOIrT9Y6skRjsMSFmC6WN/O7ovu8QzGqxdywIDAQABAoIBAAaXoETtVT9GtpHW
-qLaKHgYtLEO1tOFOhInWyolyZgL4inuRRva3CIvVEWK6TcnDyIlNL4MfcerehwGi
-il4fQFvLR7E6UFcopvhJiSJHIcvPQ9FfNFR3dYcNOQ/IFvE73bEqMwSISPwiel6w
-e1DjF3C7jHaS1s9PJfWFN982aublL/yLbJP+ou3ifdljS7QzjWZA8NRiMwmBGPIh
-Yq8weR3jIVQl3ndEYxO7Cr/wXXebZwlP6CPZb67rBy0jg+366mxQbDZIwZYEaUME
-zY5izFclr/kKj4s7NTRkC76Yx+rTNP5+BX+JT+rgz5aoQq8ghMw43NYwxjXym/MX
-c8X8g0ECgYEA1crBUAR1gSkM+5mGjjoFLJKrFP+IhUHFh25qGI4Dcxxh1f3M53le
-wF1rkp5SJnHRFm9IW3gM1JoF0PQxI5aXHRGHphwPeKnsQ/xQBRWCeYpqTme9amJV
-tD3aDHkpIhYxkNxqol5gDCAt6tdFSxqPaNfdfsfaAOXiKGrQESUjIBcCgYEAxvmI
-2ROJsBXaiM4Iyg9hUpjZIn8TW2UlH76pojFG6/KBd1NcnW3fu0ZUU790wAu7QbbU
-i7pieeqCqSYcZsmkhnOvbdx54A6NNCR2btc+si6pDOe1jdsGdXISDRHFb9QxjZCj
-6xzWMNvb5n1yUb9w9nfN1PZzATfUsOV+Fy8CbG0CgYEAifkTLwfhqZyLk2huTSWm
-pzB0ltWfDpj22MNqVzR3h3d+sHLeJVjPzIe9396rF8KGdNsWsGlWpnJMZKDjgZsz
-JQBmMc6UMYRARVP1dIKANN4eY0FSHfEebHcqXLho0mXOUTXe37DWfZza5V9Oify3
-JquBd8uUptW1Ue41H4t/ErsCgYEArc5FYtF1QXIlfcDz3oUGz16itUZpgzlb71nd
-1cbTm8EupCwWR5I1j+IEQU+JTUQyI1nwWcnKwZI+5kBbKNJUu/mLsRyY/UXYxEZh
-ibrNklm94373kV1US/0DlZUDcQba7jz9Yp/C3dT/RlwoIw5mP3UxQCizFspNKOSe
-euPeaxUCgYEAntklXwBbokgdDup/u/3ms5Lb/bm22zDOCg2HrlWQCqKEkWkAO6R5
-/Wwyqhp/wTl8VXjxWo+W+DmewGdPHGQQ5fFdqgpuQpGUq24YZS8m66v5ANBwd76t
-IZdtF5HXs2S5CADTwniUS5mX1HO9l5gUkk+h0cH5JnPtsMCnAUM+BRY=
------END RSA PRIVATE KEY-----
+```bash
+td=$(mktemp -d) && cp bandit26.sshkey "$td" && cd "$td" && chmod 600 bandit26.sshkey
+ssh -i bandit26.sshkey bandit26@bandit.labs.overthewire.org -p 2220
 ```
 
 <br><hr><br>
 
 ### Level 26 → Level 27
-Instructions for Level 26 → Level 27...
+```
+upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB
+```
+<img width="528" alt="image" src="https://github.com/user-attachments/assets/71f2afe0-ef2c-4de8-83da-a35cb5b27629" />
 
 <br><hr><br>
 
 ### Level 27 → Level 28
-Instructions for Level 27 → Level 28...
+```
+Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN
+```
+<img width="1264" alt="image" src="https://github.com/user-attachments/assets/a75aaefe-f1d5-4479-a9b1-dfb927c0f979" />
+<img width="783" alt="image" src="https://github.com/user-attachments/assets/89232e37-ac14-41c3-b267-8e6aee29a0a6" />
+
+```
+td=$(mktemp -d) && cd "$td" && GIT_SSH_COMMAND='ssh -p 2220' git clone ssh://bandit27-git@localhost/home/bandit27-git/repo
+```
+
 
 <br><hr><br>
 
 ### Level 28 → Level 29
-Instructions for Level 28 → Level 29...
+```
+4pT1t5DENaYuqnqvadYs1oE4QLCdjmJ7
+```
+<img width="787" alt="image" src="https://github.com/user-attachments/assets/01ce6567-2053-4084-9f3f-c1c00939ee48" />
+<img width="764" alt="image" src="https://github.com/user-attachments/assets/70127824-1b25-462c-ab1e-3cd8b0672253" />
+
+```
+td=$(mktemp -d) && cd "$td" && GIT_SSH_COMMAND='ssh -p 2220' git clone ssh://bandit28-git@localhost/home/bandit28-git/repo
+```
 
 <br><hr><br>
 
