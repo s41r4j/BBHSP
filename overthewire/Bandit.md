@@ -304,7 +304,6 @@ x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO
 <img width="1207" alt="image" src="https://github.com/user-attachments/assets/bb8da3da-7fd1-49cb-88e6-b75ccccb73d1" />
 <img width="426" alt="image" src="https://github.com/user-attachments/assets/137d7f3f-9034-42db-b3ec-5df4e7366778" />
 
-
 <br><hr><br>
 
 ### Level 18 → Level 19
@@ -315,7 +314,6 @@ cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
 <img width="425" alt="image" src="https://github.com/user-attachments/assets/d571f94e-0f05-4d24-978b-9e179f31246b" />
 <img width="558" alt="image" src="https://github.com/user-attachments/assets/b6210b12-e124-4216-9f64-bf13cea0a56a" />
 
-
 <br><hr><br>
 
 ### Level 19 → Level 20
@@ -325,41 +323,107 @@ cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
 <img width="1249" alt="image" src="https://github.com/user-attachments/assets/abe4cf9d-c9c4-4f4e-ab32-6e71d407255a" />
 <img width="528" alt="image" src="https://github.com/user-attachments/assets/0f945999-6e34-496b-bc00-46e7837db201" />
 
-
 <br><hr><br>
 
 ### Level 20 → Level 21
 ```
-
+EeoULMCra2q0dSkYj561DX7s1CpBuOBt
 ```
 <img width="1238" alt="image" src="https://github.com/user-attachments/assets/a7d25246-663c-4122-8903-4ae340cefdb9" />
-<img width="775" alt="image" src="https://github.com/user-attachments/assets/94be2373-5414-4930-9425-cee8e795d65c" />
-
+<img width="765" alt="image" src="https://github.com/user-attachments/assets/85df0f73-b07e-4ee6-a1e6-0123358c4ee4" />
 
 <br><hr><br>
 
 ### Level 21 → Level 22
-Instructions for Level 21 → Level 22...
+```
+tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
+```
+<img width="1216" alt="image" src="https://github.com/user-attachments/assets/9f11807a-a6ad-4854-94af-8bfa3473fa36" />
+<img width="797" alt="image" src="https://github.com/user-attachments/assets/12e51b1f-571d-449f-a12d-93ae1f5e7e26" />
 
 <br><hr><br>
 
 ### Level 22 → Level 23
-Instructions for Level 22 → Level 23...
+```
+0Zf11ioIjMVN551jX3CmStKLYqjk54Ga
+```
+<img width="1226" alt="image" src="https://github.com/user-attachments/assets/c88bdbd5-cc74-4bfb-bef3-5c1a3713e82e" />
+<img width="584" alt="image" src="https://github.com/user-attachments/assets/53a5ea04-9f17-48be-b462-1e1d700fabaa" />
 
 <br><hr><br>
 
 ### Level 23 → Level 24
-Instructions for Level 23 → Level 24...
+```
+gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
+```
+<img width="1220" alt="image" src="https://github.com/user-attachments/assets/5369f547-ad7f-44c4-8b29-8ebbbba27be7" />
+<img width="708" alt="image" src="https://github.com/user-attachments/assets/b207585f-8c43-47f6-ba64-7d9fa52431fc" />
+
+```
+#!/bin/bash
+cat /etc/bandit_pass/bandit24 > /tmp/tmp.wEpd3miVzZ/password
+```
 
 <br><hr><br>
 
 ### Level 24 → Level 25
-Instructions for Level 24 → Level 25...
+```
+iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
+```
+<img width="1246" alt="image" src="https://github.com/user-attachments/assets/6c1b41ff-0614-4aec-bed6-349b8147c63a" />
+<img width="889" alt="image" src="https://github.com/user-attachments/assets/930a3e06-f903-49e7-80eb-c6558e7b755a" />
+
+```                                         
+#!/bin/bash
+
+for i in {0000..9999}
+do 
+        echo gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8 $i >> possible_pins.txt
+done
+
+cat possible_pins.txt | nc localhost 30002 > working_port.txt
+```
 
 <br><hr><br>
 
 ### Level 25 → Level 26
-Instructions for Level 25 → Level 26...
+```
+
+```
+<img width="1254" alt="image" src="https://github.com/user-attachments/assets/bfd91669-58c4-4fce-a60e-dcbf367c6f89" />
+<img width="599" alt="image" src="https://github.com/user-attachments/assets/c890561a-c23b-4b39-b626-844c19e7f4d2" />
+![Uploading image.png…]()
+
+
+```
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpQIBAAKCAQEApis2AuoooEqeYWamtwX2k5z9uU1Afl2F8VyXQqbv/LTrIwdW
+pTfaeRHXzr0Y0a5Oe3GB/+W2+PReif+bPZlzTY1XFwpk+DiHk1kmL0moEW8HJuT9
+/5XbnpjSzn0eEAfFax2OcopjrzVqdBJQerkj0puv3UXY07AskgkyD5XepwGAlJOG
+xZsMq1oZqQ0W29aBtfykuGie2bxroRjuAPrYM4o3MMmtlNE5fC4G9Ihq0eq73MDi
+1ze6d2jIGce873qxn308BA2qhRPJNEbnPev5gI+5tU+UxebW8KLbk0EhoXB953Ix
+3lgOIrT9Y6skRjsMSFmC6WN/O7ovu8QzGqxdywIDAQABAoIBAAaXoETtVT9GtpHW
+qLaKHgYtLEO1tOFOhInWyolyZgL4inuRRva3CIvVEWK6TcnDyIlNL4MfcerehwGi
+il4fQFvLR7E6UFcopvhJiSJHIcvPQ9FfNFR3dYcNOQ/IFvE73bEqMwSISPwiel6w
+e1DjF3C7jHaS1s9PJfWFN982aublL/yLbJP+ou3ifdljS7QzjWZA8NRiMwmBGPIh
+Yq8weR3jIVQl3ndEYxO7Cr/wXXebZwlP6CPZb67rBy0jg+366mxQbDZIwZYEaUME
+zY5izFclr/kKj4s7NTRkC76Yx+rTNP5+BX+JT+rgz5aoQq8ghMw43NYwxjXym/MX
+c8X8g0ECgYEA1crBUAR1gSkM+5mGjjoFLJKrFP+IhUHFh25qGI4Dcxxh1f3M53le
+wF1rkp5SJnHRFm9IW3gM1JoF0PQxI5aXHRGHphwPeKnsQ/xQBRWCeYpqTme9amJV
+tD3aDHkpIhYxkNxqol5gDCAt6tdFSxqPaNfdfsfaAOXiKGrQESUjIBcCgYEAxvmI
+2ROJsBXaiM4Iyg9hUpjZIn8TW2UlH76pojFG6/KBd1NcnW3fu0ZUU790wAu7QbbU
+i7pieeqCqSYcZsmkhnOvbdx54A6NNCR2btc+si6pDOe1jdsGdXISDRHFb9QxjZCj
+6xzWMNvb5n1yUb9w9nfN1PZzATfUsOV+Fy8CbG0CgYEAifkTLwfhqZyLk2huTSWm
+pzB0ltWfDpj22MNqVzR3h3d+sHLeJVjPzIe9396rF8KGdNsWsGlWpnJMZKDjgZsz
+JQBmMc6UMYRARVP1dIKANN4eY0FSHfEebHcqXLho0mXOUTXe37DWfZza5V9Oify3
+JquBd8uUptW1Ue41H4t/ErsCgYEArc5FYtF1QXIlfcDz3oUGz16itUZpgzlb71nd
+1cbTm8EupCwWR5I1j+IEQU+JTUQyI1nwWcnKwZI+5kBbKNJUu/mLsRyY/UXYxEZh
+ibrNklm94373kV1US/0DlZUDcQba7jz9Yp/C3dT/RlwoIw5mP3UxQCizFspNKOSe
+euPeaxUCgYEAntklXwBbokgdDup/u/3ms5Lb/bm22zDOCg2HrlWQCqKEkWkAO6R5
+/Wwyqhp/wTl8VXjxWo+W+DmewGdPHGQQ5fFdqgpuQpGUq24YZS8m66v5ANBwd76t
+IZdtF5HXs2S5CADTwniUS5mX1HO9l5gUkk+h0cH5JnPtsMCnAUM+BRY=
+-----END RSA PRIVATE KEY-----
+```
 
 <br><hr><br>
 
@@ -402,3 +466,6 @@ Instructions for Level 32 → Level 33...
 Instructions for Level 33 → Level 34...
 
 <br><hr><br>
+
+## References & Resources:
+- https://mayadevbe.me/tags/bandit/
